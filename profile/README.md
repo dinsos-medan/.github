@@ -15,8 +15,6 @@ Thanks goes to these wonderful people of MSIB MBKM Batch 5
   <tr>
     <td align="center"><a href="https://github.com/ferdinan-ops"><img src="https://avatars.githubusercontent.com/u/84588706?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Ferdinan Imanuel Tumanggor</b></sub></a><br /><p style="font-size:10px">Mobile Developer</p></td>
     <td align="center"><a href="https://github.com/raihanoza"><img src="https://avatars.githubusercontent.com/u/95232031?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Raihan Oza Samudera Siregar</b></sub></a><br /><p style="font-size:10px">Mobile Developer</p></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://github.com/Aryawardhanaa"><img src="https://avatars.githubusercontent.com/u/60972282?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Arya Wardhana</b></sub></a><br /><p style="font-size:10px">Frontend Developer</p></td>
     <td align="center"><a href="https://github.com/Krisnaaassss"><img src="https://avatars.githubusercontent.com/u/99775863?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Krisna Luciano Siburain</b></sub></a><br /><p style="font-size:10px">Frontend Developer</p></td>
   </tr>
