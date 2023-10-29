@@ -44,9 +44,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 Special thanks goes to our supporters.
 
 <p>
-  <a href="https://dissos.pemkomedan.go.id/" target="_blank" rel="noopener noreferrer"><img height="80" src="https://avatars.githubusercontent.com/u/146000300" alt="PMI"></a><br>
-  <a href="https://www.kemdikbud.go.id/" target="_blank" rel="noopener noreferrer"><img height="160" src="https://ujione.id/wp-content/uploads/2022/08/ini-makna-dari-logo-tut-wuri-handayani-1015x1024.jpg" alt="gariskode"></a></br>
-  <a href="https://kampusmerdeka.kemdikbud.go.id/" target="_blank" rel="noopener noreferrer"><img height="160" src="https://kampusmerdeka.uad.ac.id/themes/pkkm/img/km.png" alt="unimal"></a></br>
+  <a href="https://dissos.pemkomedan.go.id/" target="_blank" rel="noopener noreferrer"><img height="100" src="https://avatars.githubusercontent.com/u/146000300" alt="PMI"></a>
+  <a href="https://www.kemdikbud.go.id/" target="_blank" rel="noopener noreferrer"><img height="100" src="https://ujione.id/wp-content/uploads/2022/08/ini-makna-dari-logo-tut-wuri-handayani-1015x1024.jpg" alt="gariskode"></a>
+  <a href="https://kampusmerdeka.kemdikbud.go.id/" target="_blank" rel="noopener noreferrer"><img height="100" src="https://kampusmerdeka.uad.ac.id/themes/pkkm/img/km.png" alt="unimal"></a>
 </p>
 
 
