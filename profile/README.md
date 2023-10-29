@@ -11,10 +11,16 @@ Thanks goes to these wonderful people of MSIB MBKM Batch 5
   <tr>
     <td align="center"><a href="https://github.com/iikiii"><img src="https://avatars.githubusercontent.com/u/72812969?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Rifqi Alnahwandi Putra</b></sub></a><br /><p style="font-size:10px">UI/UX Designer</p></td>
     <td align="center"><a href="https://github.com/oneJR6"><img src="https://avatars.githubusercontent.com/u/89963883?s=96&v=4" width="100px;" alt=""/><br /><sub><b>ibnun nizham</b></sub></a><br /><p style="font-size:10px">UI/UX Designer</p></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/ferdinan-ops"><img src="https://avatars.githubusercontent.com/u/84588706?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Ferdinan Imanuel Tumanggor</b></sub></a><br /><p style="font-size:10px">Mobile Developer</p></td>
     <td align="center"><a href="https://github.com/raihanoza"><img src="https://avatars.githubusercontent.com/u/95232031?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Raihan Oza Samudera Siregar</b></sub></a><br /><p style="font-size:10px">Mobile Developer</p></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/Aryawardhanaa"><img src="https://avatars.githubusercontent.com/u/60972282?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Arya Wardhana</b></sub></a><br /><p style="font-size:10px">Frontend Developer</p></td>
     <td align="center"><a href="https://github.com/Krisnaaassss"><img src="https://avatars.githubusercontent.com/u/99775863?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Krisna Luciano Siburain</b></sub></a><br /><p style="font-size:10px">Frontend Developer</p></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/fajar-dev"><img src="https://avatars.githubusercontent.com/u/69442735?v=4" width="100px;" alt=""/><br /><sub><b>Fajar Rivaldi Chan</b></sub></a><br /><p style="font-size:10px">Backend Developer</p></td>
     <td align="center"><a href="https://github.com/andrian2929"><img src="https://avatars.githubusercontent.com/u/73821384?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Andrian Putra Ramadan</b></sub></a><br /><p style="font-size:10px">Backend Developer</p></td>
     <td align="center"><a href="https://github.com/yazidr1"><img src="https://avatars.githubusercontent.com/u/73747655?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Yazid Ridwan</b></sub></a><br /><p style="font-size:10px">Backend Developer</p></td>
