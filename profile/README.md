@@ -1,9 +1,8 @@
 # Dinas Sosial Kota Medan
-![Frame 25](https://user-images.githubusercontent.com/69442735/230100970-dc7870fa-3e7c-4662-ba68-9357dd8438f8.png)
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people
+Thanks goes to these wonderful people of MSIB MBKM Batch 5 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
