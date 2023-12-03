@@ -11,7 +11,7 @@ Thanks goes to these wonderful people of MSIB MBKM Batch 5
   <tr>
     <td align="center"><a href="https://github.com/iikiii"><img src="https://avatars.githubusercontent.com/u/72812969?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Rifqi Alnahwandi Putra</b></sub></a><br /><p style="font-size:10px">UI/UX Designer</p></td>
     <td align="center"><a href="https://github.com/oneJR6"><img src="https://avatars.githubusercontent.com/u/89963883?s=96&v=4" width="100px;" alt=""/><br /><sub><b>ibnun nizham</b></sub></a><br /><p style="font-size:10px">UI/UX Designer</p></td>
- <td align="center"><a href="https://github.com/Tarmizii"><img src="https://avatars.githubusercontent.com/u/90514820?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Tarmizi/b></sub></a><br /><p style="font-size:10px">UI/UX Designer</p></td>
+ <td align="center"><a href="https://github.com/Tarmizii"><img src="https://avatars.githubusercontent.com/u/90514820?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Tarmizi</b></sub></a><br /><p style="font-size:10px">UI/UX Designer</p></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/ferdinan-ops"><img src="https://avatars.githubusercontent.com/u/84588706?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Ferdinan Imanuel Tumanggor</b></sub></a><br /><p style="font-size:10px">Mobile Developer</p></td>
