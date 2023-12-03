@@ -38,8 +38,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="80" ></span>
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="80" ></span>
 <span><img src="http://jwt.io/img/logo-asset.svg" height="80" ></span>
-<span><img src="https://camo.githubusercontent.com/451061eb9714c2135705a1ad757017cc943627ca474d8a20e78209214469bf72/68747470733a2f2f6437756d7169637069373236332e636c6f756466726f6e742e6e65742f696d672f70726f647563742f65306364363161372d316336352d343561302d393765652d3737363364646335313533612f39383834313664302d323562632d346264322d623864622d6633343764306131393335642e706e67" height="80" ></span>
-<span><img src="https://www.turnkeylinux.org/files/images/postgresql-logo-for-blog.png" height="80" ></span>
 <span><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png" height="80" ></span>
 
 
